@@ -81,3 +81,6 @@ npm install
 npm run dev
 ```
 
+### Setelah perintah npm run dev berjalan, buka browser dan akses aplikasi frontend di:
+http://localhost:5173/
+
