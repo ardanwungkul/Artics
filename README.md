@@ -71,18 +71,13 @@ php artisan jwt:secret
 php artisan key:generate
 php artisan migrate
 php artisan serve
-
-
----
-
-
+```
 
 ### Frontend (Vue JS)
+
 ```bash
 cd booking-frontend
 npm install
 npm run dev
-
----
-
+```
 
